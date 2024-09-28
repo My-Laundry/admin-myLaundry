@@ -6,17 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="de0ff43d-a439-4f62-b598-62c7485a499c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detail-pesanan.html" beforeDir="false" afterPath="$PROJECT_DIR$/detail-pesanan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edit-produk.html" beforeDir="false" afterPath="$PROJECT_DIR$/edit-produk.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kurir.html" beforeDir="false" afterPath="$PROJECT_DIR$/kurir.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/password.html" beforeDir="false" afterPath="$PROJECT_DIR$/password.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pesanan.html" beforeDir="false" afterPath="$PROJECT_DIR$/pesanan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/produk.html" beforeDir="false" afterPath="$PROJECT_DIR$/produk.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/riwayat-pesanan.html" beforeDir="false" afterPath="$PROJECT_DIR$/riwayat-pesanan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tambahkan-produk-baru.html" beforeDir="false" afterPath="$PROJECT_DIR$/tambahkan-produk-baru.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ThinkpadX270/Documents/portofolio",
+    "last_opened_file_path": "C:/Users/ThinkpadX270/Documents/GitHub/admin-myLaundry",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -98,6 +87,7 @@
       <workItem from="1727520746188" duration="3323000" />
       <workItem from="1727524479522" duration="364000" />
       <workItem from="1727525181690" duration="29000" />
+      <workItem from="1727539243765" duration="1060000" />
     </task>
     <servers />
   </component>
